@@ -1,0 +1,5 @@
+# application folders
+build
+
+# modules
+node_modules
